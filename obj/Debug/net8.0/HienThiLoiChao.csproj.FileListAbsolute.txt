@@ -1,0 +1,42 @@
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.exe
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.deps.json
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.runtimeconfig.json
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.dll
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.pdb
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.AssemblyInfoInputs.cache
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.AssemblyInfo.cs
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.dll
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\obj\Debug\net8.0\refint\HienThiLoiChao.dll
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.pdb
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.genruntimeconfig.cache
+D:\WorkSpace\C#_EX\4\HienThiLoiChao\obj\Debug\net8.0\ref\HienThiLoiChao.dll
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.exe
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.dll
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.pdb
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.dll
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\obj\Debug\net8.0\refint\HienThiLoiChao.dll
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.pdb
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\HienThiLoiChao\obj\Debug\net8.0\ref\HienThiLoiChao.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.exe
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.deps.json
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\bin\Debug\net8.0\HienThiLoiChao.pdb
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\obj\Debug\net8.0\refint\HienThiLoiChao.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.pdb
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\obj\Debug\net8.0\HienThiLoiChao.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiLoiChao\obj\Debug\net8.0\ref\HienThiLoiChao.dll
